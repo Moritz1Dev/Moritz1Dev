@@ -14,7 +14,7 @@ More at: https://github.com/Moddy-Bots
 
 
 
-## 🌳 Social Media
+## 🌿 Social Media
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/980916557993623575)
 
