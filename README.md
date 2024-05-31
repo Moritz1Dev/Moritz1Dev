@@ -1,6 +1,6 @@
 # 🦖 Hundigames (Moritz)
 
-🤖 Moddy 💻 Developer 🦖 I`m a Dinooo 
+🤖 Moddy 🖥️ Developer 🦖 I`m a Dinooo 
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
