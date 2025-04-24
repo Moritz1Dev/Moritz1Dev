@@ -25,7 +25,7 @@ More at: https://github.com/Moddy-Bots
 
 
 ## 🌴 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,php,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,php,node,)
 
 
 ### Tools
