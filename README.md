@@ -28,8 +28,8 @@ More at: https://github.com/Moddy-Bots
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,php,node,)
 
 
-### Tools
-![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,github,discord,bots,raspberrypi,cloudflare)
+## 🛠️ Tools
+![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,github,discord,bots)
 
 
 
