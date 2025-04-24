@@ -29,7 +29,7 @@ More at: https://github.com/Moddy-Bots
 
 
 ## 🛠️ Tools
-![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,github,discord,bots)
+![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,datagript,github,discord,bots)
 
 
 
