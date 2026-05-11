@@ -6,9 +6,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 
-## 🌵 ModdyBot Discord
+## 🌵 VeloBot Discord
 
-Moddy is my big project. The bot can do the work for you. He moderates your Discord Server! 
+VELO is my big project. The bot can do the work for you. He moderates your Discord Server! 
 
 More at: https://github.com/Moddy-Bots
 
